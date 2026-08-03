@@ -12,6 +12,11 @@
 
 Streams the `sd_tablet_<colour>` drawables (black, blue, green, orange, pink, purple, red, yellow) that sd-tablet attaches to the player's hand while the tablet is out. The prop colour matches the tablet item the player used.
 
+## Preview
+ <img width="1500" height="1500" alt="v10_flower_screen" src="https://github.com/user-attachments/assets/9dabc95f-805b-4f10-af6f-a53a8250f7a8" />
+<img width="1500" height="1500" alt="v10_pinwheel" src="https://github.com/user-attachments/assets/18c7d631-62c7-4a31-b5aa-15d4a054bf5a" />
+
+
 ## Installation
 
 ```cfg
